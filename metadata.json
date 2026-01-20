@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Creative Studio",
+  "description": "A high-end, AI-powered content workspace for generating professional copy and high-quality visuals using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
